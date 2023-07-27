@@ -18,18 +18,6 @@ const CardCouples = () => {
               transports...)
             </p> 
           </div>
-          <p className="text_or">OU</p>
-          <div className="text_container">
-            <h3 className="text_subtitle">MEILLEUR AMI D&apos;ENFANCE</h3>
-            <p className="text_description">
-              Votre meilleur ami d&apos;enfance que votre conjoint/conjointe
-              ne connait pas vous contacte parce qu&apos;il veut absolument
-              vous inviter pour quelques jours de retrouvailles entre amis
-              d&apos;enfances. (Faux profil facebook de votre ami , photoshop
-              d&apos;une photo d&apos;enfance, échanges facebook pour
-              l&apos;évènement avec votre ami.)
-            </p>
-          </div>
         </div>
       </div>
     </div>

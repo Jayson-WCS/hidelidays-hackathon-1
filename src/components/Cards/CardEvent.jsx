@@ -18,17 +18,6 @@ const CardEvent = () => {
               transports...)
             </p>
           </div>
-          <p className="text_or">OU</p>
-          <div className="text_container">
-            <h3 className="text_subtitle">MAURICE LE CHAT</h3>
-            <p className="text_description">
-              Votre chat Maurice va très mal, il ne veut plus
-              s&apos;alimenter. Votre voisine vous en informe par sms et vous
-              devez de toute urgence l&apos;emmener chez le vétérinaire,
-              celui-ci vous demandera de rester quelques jours à ses côté pour
-              le surveiller. (Ordonnance vétérinaire, sms de la voisine)
-            </p>
-          </div>
         </div>
       </div>
     </div>

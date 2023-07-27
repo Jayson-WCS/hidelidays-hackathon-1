@@ -45,9 +45,7 @@ const CardKidsBack = () => {
             Détendez-vous sur les plages de sable blanc de Bali et profitez de
             ses paysages tropicaux spectaculaires. Explorez les temples
             balinais, les rizières en terrasse, les marchés traditionnels, et
-            la cuisine locale savoureuse. Chez nous, chaque voyage est unique
-            et personnalisé selon vos préférences et vos besoins, pour que
-            vous puissiez profiter de vacances parfaites à Bali.
+            la cuisine locale savoureuse.
           </p>
         </div>
         <button className="back_contact">CONTACTEZ-NOUS</button>

@@ -3,15 +3,10 @@ import axios from "axios";
 
 const CardEventBack = () => {
   const [weather, setWeather] = useState([]);
-
-  //const api_url = import.meta.env.API_KEY;
-  //const api_key = import.meta.env.API_KEY;
-
   const getWeather = async () => {
     const weatherCardThree = await axios.get(
       "http://api.weatherapi.com/v1/current.json?key=a2d8f02af7db4cd996a105542231105&q=Lisbonne"
     );
-    // console.log(weatherCardThree.data.location.name)
     return weatherCardThree.data;
   };
 
@@ -45,9 +40,7 @@ const CardEventBack = () => {
             Découvrez la beauté envoûtante de Lisbonne avec nos vacances sur
             mesure. Profitez des vues imprenables sur l&apos;océan, des
             délices culinaires locaux, des quartiers historiques et des
-            monuments emblématiques de la ville. Nous personnalisons votre
-            voyage pour que vous viviez une expérience unique et mémorable.
-          </p>
+            monuments emblématiques de la ville.</p>
         </div>
         <button className="back_contact">CONTACTEZ-NOUS</button>
       </div>

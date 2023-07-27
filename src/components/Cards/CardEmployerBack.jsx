@@ -45,10 +45,7 @@ const CardEmployerBack = () => {
             Bienvenue à Santorin, une destination de rêve qui vous invite à
             vivre une expérience unique et inoubliable. Imaginez-vous sur une
             île volcanique, entouré de plages de sable noir, de vues
-            panoramiques spectaculaires et de bâtiments blanchis à la chaux.
-            Nos vacances sur mesure à Santorin sont conçues pour répondre à
-            tous vos besoins et désirs.
-          </p>
+            panoramiques spectaculaires et de bâtiments blanchis à la chaux.</p>
         </div>
         <button className="back_contact">CONTACTEZ-NOUS</button>
       </div>

@@ -18,18 +18,6 @@ const CardEmployer = () => {
               mail du notaire.)
             </p>
           </div>
-          <p className="text_or">OU</p>
-          <div className="text_container">
-            <h3 className="text_subtitle">MISSION NASA</h3>
-            <p className="text_description">
-              Mission secrète pour la NASA - Vous avez été sélectionné par la
-              NASA pour une mission de dernière minute et vous ne pouvez pas
-              en parler car cela impliquerait une violation de la sécurité
-              nationale. Vous devez vous rendre dans une base secrète de la
-              NASA pour vous préparer à votre mission spatiale. (Mail de la
-              NASA confirmant le besoin de votre présence).
-            </p>
-          </div>
         </div>
       </div>
     </div>

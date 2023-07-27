@@ -19,19 +19,6 @@ const CardKids = () => {
               Profitez de vos vacances sans culpabilité !
             </p>
           </div>
-          <p className="text_or">OU</p>
-          <div className="text_container">
-            <h3 className="text_subtitle">APPEL UN AMI</h3>
-            <p className="text_description">
-              Vous cherchez une excuse pour vous débarrassez de vos enfants
-              quelques jours et pouvoir les confier à des personnes de
-              confiance ? 
-              Vous avez gagné un concours au loto de votre ville
-              pour un voyage exotique sur une île paradisiaque, vous ne pouvez
-              pas louper cette expérience unique. 
-              (Mail confirmation du gain, billets transports)
-            </p>
-          </div>
         </div>
       </div>
     </div>
